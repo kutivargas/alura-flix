@@ -1,4 +1,12 @@
 body{
-color:dodgerblue;
+color:magenta;
 background-color: floralwhite;
+margin: 0px;
+}
+header{
+border-bottom:solid 2px antiquewhite;
+padding: 20px;
+font-size:32px;
+color:deeppink;
+
 }
