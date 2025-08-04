@@ -1,17 +1,17 @@
 body{
-color:magenta;
+color:rgb(0, 119, 255);
 background-color: floralwhite;
 margin: 0px;
 font-family: "Chakra Petch", sans-serif;
 }
 header{
-border-bottom:solid 2px antiquewhite;
+border-bottom:solid 2px rgb(241, 239, 235);
 padding: 20px;
 font-size:32px;
-color:deeppink;
+color:rgb(231, 255, 20);
 }
  section{
- background: rgb(255, 170, 199);
+ background: rgb(255, 170, 237);
 padding-bottom:80px;
 padding-top:80px;
  display:flex;
